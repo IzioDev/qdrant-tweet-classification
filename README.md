@@ -12,6 +12,8 @@ docker run -p 6333:6333 -p 6334:6334 \
 cp .env.dist .env
 ```
 
+* add your OPEN_AI api key in .env
+
 * install nodejs dependencies:
 ```bash
 npm i
